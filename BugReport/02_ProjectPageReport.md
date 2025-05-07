@@ -1,7 +1,7 @@
 
 ## Summary (Summarize the bug encountered concisely)
 
-test test test test test
+Test
 
 ## Steps to reproduce     
 
